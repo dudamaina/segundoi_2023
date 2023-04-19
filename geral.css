@@ -12,11 +12,10 @@ h1{
     color:rgb(237, 228, 247) ;
     background:rgb(42, 22, 61);
     display: flex;
-    justify-content: center;
 }
 .menuPrincipal{
     position: absolute; 
-    background: rgb(169, 60, 184);
+    background: rgb(204, 91, 219);
     width: 100%;
     height: 45px;
     top: 0;
