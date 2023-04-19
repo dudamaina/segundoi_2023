@@ -14,3 +14,10 @@ h1{
     display: flex;
     justify-content: center;
 }
+.menuprincipal{
+    position: absolute; 
+    background: rgb(169, 60, 184);
+    width: 100%;
+    height: 45px;
+    top: 0;
+}
