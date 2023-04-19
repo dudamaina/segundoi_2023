@@ -14,7 +14,7 @@ h1{
     display: flex;
     justify-content: center;
 }
-.menuprincipal{
+.menuPrincipal{
     position: absolute; 
     background: rgb(169, 60, 184);
     width: 100%;
