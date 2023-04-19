@@ -7,11 +7,16 @@ h1{
 }
 .rodape{
     position: absolute;
-    width: 100%;
-    height: 50px;
-    color:rgb(237, 228, 247) ;
-    background:rgb(42, 22, 61);
-    display: flex;
+   bottom: 0;
+   width: 100%;
+   height: 50px;
+   background: black;
+   color: blanchedalmond;
+   display: flex;
+   justify-content: center;
+   font-size: 20px;
+   left: 0;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .menuPrincipal{
     position: absolute;
