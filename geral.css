@@ -34,4 +34,11 @@ h1{
     position: absolute;
     top: 45px;
 }
-
+a{
+    display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+}
