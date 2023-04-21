@@ -34,7 +34,7 @@ h1{
     position: absolute;
     top: 45px;
 }
-a{
+nav ul:a{
     display: block;
   color: #ffffff;
   text-align: center;
@@ -42,3 +42,4 @@ a{
   text-decoration: none;
   font-family: 'Courier New', Courier, monospace;
 }
+
