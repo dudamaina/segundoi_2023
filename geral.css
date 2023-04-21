@@ -22,9 +22,9 @@ h1{
     position: absolute;
     background: rgb(0, 0, 0);
     width: 100%;
-    height: 45px;
-    top: 0;
-    left: 0;
+    height: 45%;
+    top: 25px;
+    left: 11px;
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: start;
@@ -35,7 +35,7 @@ h1{
     top: 45px;
 }
 nav ul{
-    list-style-type: none;
+   list-style-type: none;
    margin: 0;
    padding: 0;
    overflow: 0;
