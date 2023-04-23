@@ -46,7 +46,6 @@ h2{
 }
 #desigualdade{
     position: absolute;
-    height: 50px;
+    height: 100px;
     width: 50%;
-    top: 75px;
 }
